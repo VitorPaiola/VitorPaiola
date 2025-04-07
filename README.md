@@ -1,51 +1,40 @@
-### 🚀 Languages and Tools:</summary>
+### 🚀 Studying Languages and Tools:</summary>
 
 <p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></>
-<img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"></>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"></>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"></>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"></>
-<img src="https://img.shields.io/badge/Flyway-CC342D?style=for-the-badge&logo=flyway&logoColor=white"></>
-<img src="https://img.shields.io/badge/Spring_Mail-6DB33F?style=for-the-badge&logo=gmail&logoColor=white"></>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></>
-<img src="https://img.shields.io/badge/Amazon_RDS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></>
-<img src="https://img.shields.io/badge/Google_Cloud_SQL-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"></>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></>
-<img src="https://img.shields.io/badge/Docker_Compose-003545?style=for-the-badge&logo=docker&logoColor=white"></>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></>
-<img src="https://img.shields.io/badge/GKE-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"></>
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></>
-<img src="https://img.shields.io/badge/AWS_ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></>
-<img src="https://img.shields.io/badge/AWS_ECS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></>
-<img src="https://img.shields.io/badge/Artifact_Registry-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"></>
-<img src="https://img.shields.io/badge/JUnit_5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white"></>
-<img src="https://img.shields.io/badge/Mockito-3A6EAC?style=for-the-badge&logo=mockito&logoColor=white"></>
-<img src="https://img.shields.io/badge/Testcontainers-8A2BE2.svg?style=for-the-badge"></>
-<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"></>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></>
-<img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"></>
-<img src="https://img.shields.io/badge/OpenAPI-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white"></>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></>
-<img src="https://img.shields.io/badge/JasperSoft-007FFF?style=for-the-badge"></>
-<img src="https://img.shields.io/badge/Apache_POI-F8981D?style=for-the-badge&logo=apache&logoColor=white"></>
-<img src="https://img.shields.io/badge/ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white"></>
-<img src="https://img.shields.io/badge/Logback-6DB33F?style=for-the-badge"></>
-<p/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img height="25" src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" alt="Amazon RDS"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud SQL"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Cloud Run"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JUnit 5"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Mockito"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Testcontainers"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" alt="OpenAPI"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JWT"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
+<img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMGqriW0CM7XGRkTTIw93-Y7qK6Derg0TlA&s" alt="JasperSoft"/>
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache POI"/>
+</p>
 
 ### Let's connect? 🤝
 
 <p align="left">
 <a href="https://dev.to/vitorpaiola"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></></a>
+<a href="https://github.com/VitorPaiola"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></></a>
 <a href="https://www.linkedin.com/in/vitor-paiola-323100175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paiola-323100175/"></></a>
 <a href="https://x.com/v__souz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></></a>
 <a href="https://www.instagram.com/v__souz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/v__souz/"></></a>
