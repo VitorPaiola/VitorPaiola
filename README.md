@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://dev.to/vitorpaiola"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></></a>
 <a href="https://github.com/VitorPaiola"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></></a>
-<a href="https://www.linkedin.com/in/vitor-paiola-323100175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paiola-323100175/"></></a>
+<a href="https://www.linkedin.com/in/vitor-paiola/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paiola-323100175/"></></a>
 <a href="https://x.com/v__souz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></></a>
 <a href="https://www.instagram.com/v__souz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/v__souz/"></></a>
 <a href="https://www.youtube.com/@UserXisOficial"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></></a>
