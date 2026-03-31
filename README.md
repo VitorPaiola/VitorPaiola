@@ -30,7 +30,7 @@
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache POI"/>
 </p>
 
-### Let's connect? 🤝 🤝
+### Let's connect? 🤝
 
 <p align="left">
 <a href="https://dev.to/vitorpaiola"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></></a>
